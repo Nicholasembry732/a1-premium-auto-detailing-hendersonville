@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AutoRepair",
+  "name": "A1 Premium Auto Detailing",
+  "description": "Owner-operated mobile auto detailing in Hendersonville, TN. Dylan Embry and Jacob Carmody come to your home or office.",
+  "url": "https://www.a1premiumautodetailing.com",
+  "telephone": "+16155924091",
+  "email": "a1premiumautodetailing615@gmail.com",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Hendersonville",
+    "addressRegion": "TN",
+    "postalCode": "37075",
+    "addressCountry": "US"
+  }
+}
